@@ -1,6 +1,6 @@
 [user]
-  name =  "TODO: PUT YOUR NAME HERE WITHOUT ACCENTS"
-  email = "TODO: PUT YOUR GITHUB ACCOUNT EMAIL HERE"
+  name =  "Maxime Vitaglione"
+  email = "maxime.vitaglione@gmail.com"
 
 [color]
   branch = auto
@@ -14,7 +14,7 @@
   remote = yellow
 
 [core]
-  editor = nano
+	editor = 'sublime' -n -w
   pager = less -FRSX
   mergeoptions = --no-edit
 
